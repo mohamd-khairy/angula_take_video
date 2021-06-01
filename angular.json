@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "videojs-record-angular"
+    }
+  },
+  "defaultProject": "videojs-record-angular",
+  "cli": {
+    "analytics": "3948f1e8-69b4-4b0e-8708-7b6926a269a1"
+  }
 }
